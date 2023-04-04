@@ -6,8 +6,9 @@
 
 ## DataSet Structure
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
+
+![DataSet](https://user-images.githubusercontent.com/88238469/229770460-f887ca32-89b8-44d7-8eca-3af526302daf.PNG)
 
 
 
